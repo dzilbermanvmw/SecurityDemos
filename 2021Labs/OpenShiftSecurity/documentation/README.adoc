@@ -13,7 +13,7 @@
 
 *Roberto Carratala Sanchez*, Senior Specialist Solution Architect, Red Hat^(R)^
 
-*Shanna Chan*, Senior Solutions Architect, Red Hat^(R)^
+*Shanna Chan*, Principal Solutions Architect, Red Hat^(R)^
 
 === [.underline]#Lab Testers#:
 *Pedro Ibáñez Requena*, Principal Software Engineer, Red Hat^(R)^
@@ -21,6 +21,8 @@
 *Nicholas Schuetz*, Principal Specialist Solution Architect,Red Hat^(R)^
 
 *Mark Roberts*, Senior Specialist Solution Architect,Red Hat^(R)^
+
+*Dan Zilberman*, Senior Specialist Solution Architect,Red Hat^(R)^
 
 == Lab Overview:
 In this hands-on lab, we will cover the comprehensive container and Kubernetes security capabilities available in Red Hat OpenShift. You will gain experience with:
@@ -39,7 +41,7 @@ This lab is geared towards systems administrators, cloud administrators and oper
 
 
 == Table of Contents
-* link:lab1.adoc[Lab 1: OpenShift blocks rogue containers from running as privileged user]
+* link:lab1.adoc[Lab 1: OpenShift blocks rogue containers from running as Privileged user]
 * link:lab2.adoc[Lab 2: Implementing network isolation between running containers using Network Policies]
 * link:lab3.adoc[Lab 3: OpenShift Role Based Access Control]
 * link:lab4.adoc[Lab 4: Implementing DevSecOps to Build and Automate Security into the Application Using Red Hat Advanced Cluster Security]
